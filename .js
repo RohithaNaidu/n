@@ -13,6 +13,7 @@ console.log("this is 2rd");
 
 console.log("hi");
 console.log("this is 2nd");
+console.log("commpleted 1 in main");
 
 
 console.log("hi ")
